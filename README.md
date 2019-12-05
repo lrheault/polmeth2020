@@ -2,7 +2,7 @@
 
 ## University of Toronto, July 16-18, 2020
 
-## The website polmeth2020.org will be launched on December 16.
+## The finalized website polmeth2020.org will be launched on December 16.
 
 ### Important Dates
 
