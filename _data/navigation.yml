@@ -1,0 +1,23 @@
+# main links
+main:
+
+  - title: "Home"
+    url: /
+
+  - title: "Apply"
+    url: /apply/
+
+# - title: "Program"
+#   url: /program/
+
+# - title: "Posters"
+#   url: /posters/
+
+  - title: "Lodging"
+    url: /lodging/
+
+  - title: "Travel"
+    url: /travel/
+
+  - title: "Diversity"
+    url: /diversity/
