@@ -13,4 +13,4 @@ The Society for Political Methodology is fully committed to fostering diversity 
 
 [Learn more about the Society's initiatives to foster diversity and inclusion](https://www.cambridge.org/core/membership/spm/about-us/diversity-and-inclusion){:target="_blank"}.
 
-To ensure a harrassment-free environment at the meeting, we require that all participants acknowledge and follow the [Code of Conduct at SPM Events](https://www.cambridge.org/core/membership/spm/about-us/diversity-and-inclusion/code-of-conduct-at-spm-events){:target="_blank"}.
+To ensure a harassment-free environment at the meeting, we require that all participants acknowledge and follow the [Code of Conduct at SPM Events](https://www.cambridge.org/core/membership/spm/about-us/diversity-and-inclusion/code-of-conduct-at-spm-events){:target="_blank"}.
