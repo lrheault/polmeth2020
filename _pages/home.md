@@ -53,7 +53,7 @@ Relevant information about the conference will be posted on this website.
 
 Michael A. Bailey (Georgetown), Olga Chyzh (ISU), Jay Goodliffe (BYU), Nahomi Ichino (Michigan), Jacob Montgomery (WUSTL), Mark Pickup (Simon Fraser) and Ludovic Rheault (Toronto, Chair).
 
-<h3>2020 Graduate Student Committee</h3> 
+<h3>2020 Graduate Student Selection Committee</h3> 
 
 Wendy K. Tam Cho (Illinois), Michelle Dion (McMaster), Ellen M. Key (Appalachian State), Matthew Lebo (Western Ontario), Ludovic Rheault (Toronto) and Teppei Yamamoto (MIT, Chair). 
 
