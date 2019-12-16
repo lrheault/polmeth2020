@@ -49,6 +49,8 @@ Relevant information about the conference will be posted on this website.
 </table>
 </center>
 
+## Committees
+
 <h3>2020 Program Committee</h3>
 
 Michael A. Bailey (Georgetown), Olga Chyzh (ISU), Jay Goodliffe (BYU), Nahomi Ichino (Michigan), Jacob Montgomery (WUSTL), Mark Pickup (Simon Fraser) and Ludovic Rheault (Toronto, Chair).
