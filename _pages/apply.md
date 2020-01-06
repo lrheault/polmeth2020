@@ -15,12 +15,9 @@ To submit a proposal, click the button below, which will take you to the Cambrid
 
 Once on the Cambridge website, click "Abstract Submission" to proceed.  The deadline is **March 15, 2020**.
 
-## Call for Proposals
+## PolMeth XXXVII Call for Proposals
 
-
-Dear colleagues,
- 
-We are pleased to announce that the 37th Annual Meeting of the Society for Political Methodology (PolMeth XXXVII) is now accepting proposals. The meeting will be hosted by the University of Toronto and will take place on July 16-18, 2020.
+We are pleased to announce that the 37th Annual Meeting of the Society for Political Methodology (PolMeth XXXVII) is now accepting proposals. The meeting will be hosted by the University of Toronto and will take place from July 16 to July 18, 2020.
 
 This year, we are continuing the format from the previous two meetings:
  
@@ -65,7 +62,7 @@ Sincerely,
 Ludovic Rheault, on behalf of the conference committees
  
 2020 Program Committee:
-Michael A. Bailey (Georgetown), Olga Chyzh (ISU), Jay Goodliffe (BYU), Nahomi Ichino (Michigan), Jacob Montgomery (WUSTL), Mark Pickup (Simon Fraser) and Ludovic Rheault (Toronto, Chair)
+Michael A. Bailey (Georgetown), Olga Chyzh (ISU), Jay Goodliffe (BYU), Nahomi Ichino (Emory), Jacob Montgomery (WUSTL), Mark Pickup (Simon Fraser) and Ludovic Rheault (Toronto, Chair)
 
 2020 Graduate Student Selection Committee:
 Wendy K. Tam Cho (Illinois), Michelle Dion (McMaster), Ellen M. Key (Appalachian State), Matthew Lebo (Western Ontario), Ludovic Rheault (Toronto) and Teppei Yamamoto (MIT, Chair)

@@ -59,7 +59,7 @@ To submit a proposal, click the button below.  You will be redirected to the Cam
 
 <h3>2020 Program Committee</h3>
 
-Michael A. Bailey (Georgetown), Olga Chyzh (ISU), Jay Goodliffe (BYU), Nahomi Ichino (Michigan), Jacob Montgomery (WUSTL), Mark Pickup (Simon Fraser) and Ludovic Rheault (Toronto, Chair).
+Michael A. Bailey (Georgetown), Olga Chyzh (ISU), Jay Goodliffe (BYU), Nahomi Ichino (Emory), Jacob Montgomery (WUSTL), Mark Pickup (Simon Fraser) and Ludovic Rheault (Toronto, Chair).
 
 <h3>2020 Graduate Student Selection Committee</h3> 
 
