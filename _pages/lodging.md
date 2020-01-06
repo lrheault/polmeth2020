@@ -15,7 +15,7 @@ A direct link for reservations will be posted here in 2020.
 
 ## University Lodging
 
-We will provide participants with low-cost options for lodging at University summer residences.  More information coming in 2020.
+We will provide graduate student participants with a low-cost option for lodging in one of the University's summer residences.  More information coming soon.
 
 ## Food
 

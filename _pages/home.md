@@ -9,11 +9,17 @@ excerpt: <br/>
 
 <h2>PolMeth XXXVII at the University of Toronto</h2>
 
-The 37th annual conference of the Society for Political Methodology (PolMeth XXXVII) will take place in Toronto, Canada at the downtown campus of the [University of Toronto](https://www.utoronto.ca/){:target="_blank"} from July 16 to July 18, 2020.
+The 37th annual meeting of the Society for Political Methodology (PolMeth XXXVII) will take place in Toronto, Canada at the downtown campus of the [University of Toronto](https://www.utoronto.ca/){:target="_blank"} from July 16 to July 18, 2020.
 
 The Society for Political Methodology, the National Science Foundation, and the host institution have supported a summer conference in political methodology since 1984.
 
 Relevant information about the conference will be posted on this website.
+
+<h2>Apply now!</h2>
+
+To submit a proposal, click the button below.  You will be redirected to the Cambridge website.
+
+<a href="https://www.cambridge.org/core/membership/spm/register" target="_blank" class="btn btn-lg btn--primary">Submit Proposal</a>
 
 <h2 id="dates">Important Dates</h2>
 <center>
