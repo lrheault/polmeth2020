@@ -7,6 +7,10 @@ header:
 excerpt: <br/>
 ---
 
+<h2>COVID-19 Situation</h2>
+
+PolMeth 2020 is currently accepting proposals.  We are aware that many institutions recommended their faculty and students to avoid travel.  Our conference is still far off in the summer (July 16-18).  If there are concerns about the conference due to the ongoing coronavirus (COVID-19) outbreak, we will advise participants before they start registering.
+
 <h2>PolMeth XXXVII at the University of Toronto</h2>
 
 The 37th annual meeting of the Society for Political Methodology (PolMeth XXXVII) will take place in Toronto, Canada at the downtown campus of the [University of Toronto](https://www.utoronto.ca/){:target="_blank"} from July 16 to July 18, 2020.
