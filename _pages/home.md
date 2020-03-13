@@ -7,9 +7,13 @@ header:
 excerpt: <br/>
 ---
 
-<h2>COVID-19 Situation</h2>
+<h2>COVID-19 Update (March 13)</h2>
 
-Many institutions recommended their faculty and students to avoid travel, which creates a great deal of uncertainty regarding academic events.  As a consequence, the proposal submission deadline for PolMeth is now extended to April 3.  If there are concerns about the feasibility of a summer conference due to the ongoing coronavirus (COVID-19) outbreak, we will advise participants before the registration period starts.
+The coronavirus disease (COVID-19) outbreak has an impact on the planning of the annual meeting of the Society for Political Methodology.  The response to the outbreak is evolving rapidly, and many universities have imposed travel restrictions on faculty and students.
+
+For now, the proposal submission deadline for PolMeth XXXVII is extended to April 3.  We initially aimed for an early submission deadline this year, with the objective of giving participants as much time as possible to make their travel plans.  Needless to say, the recent developments have disrupted that schedule. 
+
+We are currently monitoring the impact of the outbreak on other academic events planned for the summer.  We will make sure to inform participants on the status of the conference before the registration period starts, and will post updates on this website as they become available.
 
 <h2>PolMeth XXXVII at the University of Toronto</h2>
 
