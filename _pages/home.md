@@ -9,7 +9,7 @@ excerpt: <br/>
 
 <h2>COVID-19 Situation</h2>
 
-Many institutions recommended their faculty and students to avoid travel, which creates a great deal of uncertainty regarding academic events.  As a consequence, the proposal submission deadline for PolMeth is now extended to April 6.  If there are concerns about the feasibility of a summer conference due to the ongoing coronavirus (COVID-19) outbreak, we will advise participants before the registration period starts.
+Many institutions recommended their faculty and students to avoid travel, which creates a great deal of uncertainty regarding academic events.  As a consequence, the proposal submission deadline for PolMeth is now extended to April 3.  If there are concerns about the feasibility of a summer conference due to the ongoing coronavirus (COVID-19) outbreak, we will advise participants before the registration period starts.
 
 <h2>PolMeth XXXVII at the University of Toronto</h2>
 
@@ -37,7 +37,7 @@ To submit a proposal, click the button below.  You will be redirected to the Cam
         <tr>
             <td style="width: 50%;"><b>Proposal submission deadline</b></td>
             <td style="width: 15%;"></td>
-            <td style="width: 25%;"><font color="red">April 6, 2020</font></td>
+            <td style="width: 25%;"><font color="red">April 3, 2020</font></td>
         </tr>
         <tr>
             <td style="width: 50%;"><b>Acceptance emails (expected)</b><br/></td>

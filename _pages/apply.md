@@ -13,7 +13,7 @@ To submit a proposal, click the button below, which will take you to the Cambrid
 
 <a href="https://www.cambridge.org/core/membership/spm/register" target="_blank" class="btn btn-lg btn--primary">Submit Proposal</a>
 
-Once on the Cambridge website, click "Abstract Submission" to proceed.  The deadline is now April 6, 2020.
+Once on the Cambridge website, click "Abstract Submission" to proceed.  The deadline is now April 3, 2020.
 
 ## PolMeth XXXVII Call for Proposals
 
