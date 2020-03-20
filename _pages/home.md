@@ -9,7 +9,7 @@ excerpt: <br/>
 
 <h2>PolMeth XXXVII is Now a Virtual Conference (March 20)</h2>
 
-In light of recent developments regarding the coronavirus disease (COVID-19) pandemic, the 2020 annual summer meeting will be converted into a virtual (online) conference. 
+In light of recent developments regarding the coronavirus disease (COVID-19) pandemic, PolMeth XXXVII will be converted into a virtual (online) conference. 
 
 While we hope that the COVID-19 outbreak will have abated in July, holding an in-person conference during the summer would have placed an undue stress on participants, by requiring them to prepare travel plans at a time when governments and universities are asking them not to.
 

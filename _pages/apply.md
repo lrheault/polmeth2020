@@ -15,21 +15,15 @@ To submit a proposal, click the button below, which will take you to the Cambrid
 
 Once on the Cambridge website, click "Abstract Submission" to proceed.  The deadline is now April 3, 2020.
 
-## PolMeth XXXVII Call for Proposals
+## PolMeth XXXVII Call for Proposals (Updated)
 
-The 37th Annual Meeting of the Society for Political Methodology (PolMeth XXXVII) is currently accepting proposals until April 3, 2020.  The meeting will be hosted by the University of Toronto and is scheduled to take place from July 16 to July 18, 2020.
+The 37th Annual Meeting of the Society for Political Methodology (PolMeth XXXVII) is currently accepting proposals until April 3, 2020.  The meeting will be a virtual (online) conference scheduled to take place from July 16 to July 18, 2020.
 
 You are welcome to submit proposals using the following link (click "Abstract Submission" to proceed):
 
 <a href="https://www.cambridge.org/core/membership/spm/register" target="_blank">https://www.cambridge.org/core/membership/spm/register</a> 
 
-This year, we are continuing the format from the previous two meetings:
-
-1) We welcome both proposals that focus on methodological innovations, and proposals that apply cutting-edge methods to empirical problems of substantive interest.
-
-2) We will have two formats for paper presentations: regular presentation and short presentation sessions. A regular presentation session will feature a single paper with 40-minute oral presentation, followed by a discussion and Q&A. A short presentation session will contain two papers sharing a common theme, and (unlike APSA panels) each paper presentation will be immediately followed by a discussion and Q&A.
-
-3) The meeting will feature presentations by junior scholars and scholars from groups underrepresented in political methodology. These panels will be moderated by senior scholars and will occur during the main conference.
+Despite the transition to a virtual format, the objective is to maintain the usual setup of PolMeth conferences, with presentations and poster sessions.  We welcome both proposals that focus on methodological innovations, and proposals that apply cutting-edge methods to empirical problems of substantive interest.
 
 The Society for Political Methodology is fully committed to fostering diversity and inclusion. We recognize that our impact as a subfield – from our ability to communicate our findings and to speak to a broad audience to our ability to consider the breadth of methodological possibilities – comes through diversity, and we actively seek and welcome people with diverse backgrounds, experiences, and identities. You can read more about the Society's commitment to diversity here:
 
@@ -41,13 +35,13 @@ We require that all participants acknowledge and follow the Code of Conduct at S
  
 We welcome submissions from:
 
-- Faculty members looking to present a paper, serve as a discussant, or simply attend the conference;
+- Faculty members looking to present a paper or serve as a discussant;
 - Junior faculty looking to be considered for limited funding;
 - Graduate students looking to present a poster.
  
 *Graduate students*: The annual meeting provides a fantastic opportunity for graduate students to receive extended feedback from scholars in the field of methodology.   Some funding is available to support the travel costs of graduate students, and will be awarded on a competitive basis.  Graduate student applications must be supported by a faculty recommendation. These recommendations are submitted through a webform sent after submitting a proposal, and must be completed by the application deadline (April 3). They are typically 2 to 4 paragraphs in length and discuss the student's poster proposal, methodological training, and any other information that would be relevant for the Graduate Student Selection Committee. We strongly encourage you to give your recommenders as much advance notice as possible.
  
-The registration fee for the conference will be kept the same as last year: $275 for SPM members ($225 for students) and $300 for non-members ($250 for non-member students).
+The fee structure for the conference will be announced in due course, but will be considerably reduced compared to in-person conferences, at the minimum.
 
 If you have questions or comments, please contact the conference organizers at <a href="mailto:polmeth@utoronto.ca">polmeth@utoronto.ca</a>.
 
