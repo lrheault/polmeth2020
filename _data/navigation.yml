@@ -13,11 +13,11 @@ main:
 # - title: "Posters"
 #   url: /posters/
 
-  - title: "Lodging"
-    url: /lodging/
+#  - title: "Lodging"
+#    url: /lodging/
 
-  - title: "Travel"
-    url: /travel/
+#  - title: "Travel"
+#    url: /travel/
 
   - title: "Diversity"
     url: /diversity/

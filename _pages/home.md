@@ -3,23 +3,27 @@ title: "2020 Annual Conference of the Society for Political Methodology"
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/toronto.jpg"
+  overlay_image: "/assets/images/synthwave.jpg"
 excerpt: <br/>
 ---
 
-<h2>COVID-19 Update (March 13)</h2>
+<h2>PolMeth XXXVII is Now a Virtual Conference (March 20)</h2>
 
-The coronavirus disease (COVID-19) outbreak has an impact on the planning of the annual meeting of the Society for Political Methodology.  The response to the outbreak is evolving rapidly, and many universities have imposed travel restrictions on faculty and students.
+In light of recent developments regarding the coronavirus disease (COVID-19) pandemic, the 2020 annual summer meeting will be converted into a virtual (online) conference. 
 
-For now, the proposal submission deadline for PolMeth XXXVII is extended to April 3.  We initially aimed for an early submission deadline this year, with the objective of giving participants as much time as possible to make their travel plans.  Needless to say, the recent developments have disrupted that schedule. 
+While we hope that the COVID-19 outbreak will have abated in July, holding an in-person conference during the summer would have placed an undue stress on participants, by requiring them to prepare travel plans at a time when governments and universities are asking them not to.
 
-We are currently monitoring the impact of the outbreak on other academic events planned for the summer.  We will make sure to inform participants on the status of the conference before the registration period starts, and will post updates on this website as they become available.
+We are enthusiastically exploring the logistics of a virtual (i.e. online) conference at this time.  The specifics will be announced in due course.  This is unchartered territory for the Society, but the timing is right to innovate.
 
-<h2>PolMeth XXXVII at the University of Toronto</h2>
+For now, the objective is for the online event to happen during the same time period as originally planned (July 16 to July 18, 2020).  The setup would allow for both online presentations and online poster sessions.  As a result, the evaluation of proposals will proceed as usual. 
 
-The 37th annual meeting of the Society for Political Methodology (PolMeth XXXVII) will take place in Toronto, Canada at the downtown campus of the [University of Toronto](https://www.utoronto.ca/){:target="_blank"} from July 16 to July 18, 2020.
+Those who have already submitted a proposal will be surveyed for their interest in presenting online, and of course they should not feel pressured if they choose not to.  Meanwhile, the abstract submission system remains open until April 3rd, and we still accept proposals.
 
-The Society for Political Methodology, the National Science Foundation, and the host institution have supported a summer conference in political methodology since 1984.
+<h2>PolMeth XXXVII</h2>
+
+The 37th annual meeting of the Society for Political Methodology (PolMeth XXXVII) will be a virtual (online) conference taking place from July 16 to July 18, 2020.
+
+The Society for Political Methodology, the National Science Foundation, and host institutions have supported a summer conference in political methodology since 1984.
 
 Relevant information about the conference will be posted on this website.
 
