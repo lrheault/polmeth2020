@@ -7,7 +7,7 @@ header:
 excerpt: <br/>
 ---
 
-<h2>PolMeth XXXVII is Now a Virtual Conference (March 20)</h2>
+<h2>PolMeth XXXVII Is Now a Virtual Conference (March 20)</h2>
 
 In light of recent developments regarding the coronavirus disease (COVID-19) pandemic, PolMeth XXXVII will be converted into a virtual (online) conference. 
 
