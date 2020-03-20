@@ -15,12 +15,4 @@ The Society for Political Methodology is fully committed to fostering diversity 
 
 To ensure a harassment-free environment at the meeting, we require that all participants acknowledge and follow the [Code of Conduct at SPM Events](https://www.cambridge.org/core/membership/spm/about-us/diversity-and-inclusion/code-of-conduct-at-spm-events){:target="_blank"}.
 
-## Initiatives
 
-This year again, we are taking a number of steps to fulfill our commitment to diversity at the conference:
-
-- The conference will feature invited talks designed to encourage diversity in the field of political methodology.
-
-- Emerging scholar sessions will be part of the conference program, featuring papers by junior and underrepresented scholars.  Note that some funding is available for members of underrepresented groups (please check that option in the form when submitting a proposal). 
-
-- Childcare services will be arranged for participants who make the request in advance.
