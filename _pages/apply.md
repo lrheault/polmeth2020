@@ -35,11 +35,10 @@ We require that all participants acknowledge and follow the Code of Conduct at S
  
 We welcome submissions from:
 
-- Faculty members looking to present a paper or serve as a discussant;
-- Junior faculty looking to be considered for limited funding;
+- All faculty members looking to present a paper or serve as a discussant;
 - Graduate students looking to present a poster.
  
-*Graduate students*: The annual meeting provides a fantastic opportunity for graduate students to receive extended feedback from scholars in the field of methodology.   Some funding is available to support the travel costs of graduate students, and will be awarded on a competitive basis.  Graduate student applications must be supported by a faculty recommendation. These recommendations are submitted through a webform sent after submitting a proposal, and must be completed by the application deadline (April 3). They are typically 2 to 4 paragraphs in length and discuss the student's poster proposal, methodological training, and any other information that would be relevant for the Graduate Student Selection Committee. We strongly encourage you to give your recommenders as much advance notice as possible.
+*Graduate students*: The annual meeting provides a fantastic opportunity for graduate students to receive extended feedback from scholars in the field of methodology.   Graduate student applications must be supported by a faculty recommendation. These recommendations are submitted through a webform sent after submitting a proposal, and must be completed by the application deadline (April 3). They are typically 2 to 4 paragraphs in length and discuss the student's poster proposal, methodological training, and any other information that would be relevant for the Graduate Student Selection Committee. We strongly encourage you to give your recommenders as much advance notice as possible.
  
 The fee structure for the conference will be announced in due course, but will be considerably reduced compared to in-person conferences.
 
