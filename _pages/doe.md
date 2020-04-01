@@ -1,7 +1,7 @@
 ---
-title: "Program"
+title: "doe"
 layout: splash
-permalink: /program/
+permalink: /doe/
 sidebar: false
 toc: false
 toc_icon: "cog"
