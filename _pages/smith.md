@@ -19,10 +19,10 @@ Registered participants can join the Zoom Session ID 555-555-555, or using the l
 
 <a href="https://www.zoom.us" target="_blank" class="btn btn-lg btn--primary">Join Zoom Session</a>
 
+For non-registered participants, the talk will be livestreamed here and available as a video.
+
 <iframe width="640" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
 </iframe>
-
-For non-registered participants, the talk will be posted on this page after the talk.
 
 ## Comments
 
