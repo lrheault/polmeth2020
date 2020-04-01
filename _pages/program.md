@@ -7,7 +7,7 @@ toc: false
 toc_icon: "cog"
 ---
 
-# Program
+## Program
 
 ## Thursday, July 16
 
@@ -25,3 +25,7 @@ Virtual Room 2
 
 ...
 
+## Poster Session
+
+Jane Smith (Wuhan University) <br>
+["Yet another model to predict the spread of COVID-19."](/jsmith/){:target="_blank"} <br>
