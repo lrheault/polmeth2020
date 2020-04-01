@@ -3,7 +3,7 @@ title: "2020 Annual Conference of the Society for Political Methodology"
 layout: splash
 permalink: /
 header:
-  overlay_image: "/assets/images/synthwave.jpg"
+  overlay_image: "/assets/images/toronto.jpg"
 excerpt: <br/>
 ---
 
