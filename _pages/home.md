@@ -13,7 +13,7 @@ In light of recent developments regarding the coronavirus disease (COVID-19) pan
 
 While we hope that the COVID-19 outbreak will have abated in July, holding an in-person conference during the summer would have placed an undue stress on participants, by requiring them to prepare travel plans at a time when governments and universities are asking them not to.
 
-We are enthusiastically exploring the logistics of a virtual (i.e. online) conference at this time.  The specifics will be announced in due course.  This is unchartered territory for the Society, but the timing is right to innovate.
+We are enthusiastically exploring the logistics of a virtual (i.e. online) conference at this time.  The specifics will be announced in due course.  This is uncharted territory for the Society, but the timing is right to innovate.
 
 For now, the objective is for the online event to happen during the same time period as originally planned (July 16 to July 18, 2020).  The setup would allow for both online presentations and online poster sessions.  As a result, the evaluation of proposals will proceed as usual. 
 
