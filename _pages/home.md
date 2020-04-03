@@ -48,9 +48,14 @@ To submit a proposal, click the button below.  You will be redirected to the Cam
             <td style="width: 25%;"><font color="red">April 3, 2020</font></td>
         </tr>
         <tr>
-            <td style="width: 50%;"><b>Acceptance emails (expected)</b><br/></td>
+            <td style="width: 50%;"><b>Acceptance emails - regular presentations (expected)</b><br/></td>
             <td style="width: 15%;"></td>
             <td style="width: 25%;"><font color="red">April 20, 2020</font></td>
+        </tr>
+        <tr>
+            <td style="width: 50%;"><b>Acceptance emails - poster session (expected)</b><br/></td>
+            <td style="width: 15%;"></td>
+            <td style="width: 25%;"><font color="red">April 27, 2020</font></td>
         </tr>
         <tr>
             <td style="width: 50%;"><b>Registration deadline</b></td>
