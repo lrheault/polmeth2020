@@ -27,12 +27,6 @@ The Society for Political Methodology, the National Science Foundation, and host
 
 Relevant information about the conference will be posted on this website.
 
-<h2>Apply now!</h2>
-
-To submit a proposal, click the button below.  You will be redirected to the Cambridge website.
-
-<a href="https://www.cambridge.org/core/membership/spm/register" target="_blank" class="btn btn-lg btn--primary">Submit Proposal</a>
-
 <h2 id="dates">Important Dates</h2>
 <center>
 <table style="width: 95%; font-size:90%">

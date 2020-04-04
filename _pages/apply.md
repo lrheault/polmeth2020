@@ -9,11 +9,7 @@ toc_icon: "cog"
 
 ## Submit a Proposal
 
-To submit a proposal, click the button below, which will take you to the Cambridge University Press website.
-
-<a href="https://www.cambridge.org/core/membership/spm/register" target="_blank" class="btn btn-lg btn--primary">Submit Proposal</a>
-
-Once on the Cambridge website, click "Abstract Submission" to proceed.  The deadline is now April 3, 2020.
+Thank you for your interest!  The Program Committee and Graduate Student Selection Committee are currently evaluating proposals.
 
 ## PolMeth XXXVII Call for Proposals (Updated)
 
