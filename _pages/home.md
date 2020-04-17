@@ -7,21 +7,17 @@ header:
 excerpt: <br/>
 ---
 
-<h2>PolMeth XXXVII Is Now a Virtual Conference (March 20 Update)</h2>
+<h2>PolMeth XXXVII: A Virtual Conference (April 17 Update)</h2>
 
-In light of recent developments regarding the coronavirus disease (COVID-19) pandemic, PolMeth XXXVII will be converted into a virtual (online) conference. 
+In response to the ongoing COVID-19 pandemic, PolMeth XXXVII will be held as a virtual (i.e. online) conference this summer.  We would like to thank everyone who submitted a proposal despite the difficult times we are facing.  Participation was much higher than we excepted.  Given the large volume of submissions and the adjustments we had to make on the fly, we expect that acceptance emails will not go out before April 27.  We also plan to give a more concrete description of the conference format to participants at that time.
 
-While we hope that the COVID-19 outbreak will have abated in July, holding an in-person conference during the summer would have placed an undue stress on participants, by requiring them to prepare travel plans at a time when governments and universities are asking them not to.
+The emerging consensus among the various people we consulted is that we should prioritize live (web-conferencing) talks for paper presentations, as opposed to other online formats such as prerecorded videos.  We are also considering the feasibility of having some form of live interactions for graduate students.  This would bring us closer to reproducing the experience of an in-person conference.  On the other hand, a live format poses logistical challenges.  A first implication is that we may need to extend the dates of the conference (by adding one day, if not two), to ensure that scholars from different time zones are able to join simultaneously.  Another implication is that we may not be able to accept as many proposals as we would normally have.
 
-We are enthusiastically exploring the logistics of a virtual (i.e. online) conference at this time.  The specifics will be announced in due course.  This is uncharted territory for the Society, but the timing is right to innovate.
-
-For now, the objective is for the online event to happen during the same time period as originally planned (July 16 to July 18, 2020).  The setup would allow for both online presentations and online poster sessions.  As a result, the evaluation of proposals will proceed as usual. 
-
-Those who have already submitted a proposal will be surveyed for their interest in presenting online, and of course they should not feel pressured if they choose not to.  Meanwhile, the abstract submission system remains open until April 3rd, and we still accept proposals.
+We thank members of the PolMeth community for their patience and for their willingness to join us in this adventure.  More details to follow.
 
 <h2>PolMeth XXXVII</h2>
 
-The 37th annual meeting of the Society for Political Methodology (PolMeth XXXVII) will be a virtual (online) conference taking place from July 16 to July 18, 2020.
+The 37th annual meeting of the Society for Political Methodology (PolMeth XXXVII) will be a virtual (online) conference taking place from July 16 to July 18, 2020.  The dates of July 14 and July 15 may be added to accommodate the change in format.
 
 The Society for Political Methodology, the National Science Foundation, and host institutions have supported a summer conference in political methodology since 1984.
 
@@ -44,7 +40,7 @@ Relevant information about the conference will be posted on this website.
         <tr>
             <td style="width: 50%;"><b>Acceptance emails - regular presentations (expected)</b><br/></td>
             <td style="width: 15%;"></td>
-            <td style="width: 25%;"><font color="red">April 20, 2020</font></td>
+            <td style="width: 25%;"><font color="red">April 27, 2020</font></td>
         </tr>
         <tr>
             <td style="width: 50%;"><b>Acceptance emails - poster session (expected)</b><br/></td>
