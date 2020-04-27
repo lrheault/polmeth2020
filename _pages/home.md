@@ -60,7 +60,7 @@ Relevant information about the conference will be posted on this website.  A ded
         <tr>
             <td style="width: 50%;"><b>Conference</b></td>
             <td style="width: 15%;"></td>
-            <td style="width: 25%;">July 16 &ndash; 18, 2020</td>
+            <td style="width: 25%;">July 14 &ndash; 17, 2020</td>
         </tr>       
 </tbody>
 </table>
