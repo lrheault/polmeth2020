@@ -7,21 +7,25 @@ header:
 excerpt: <br/>
 ---
 
-<h2>PolMeth XXXVII: A Virtual Conference (April 17 Update)</h2>
+<h2>PolMeth XXXVII: A Virtual Conference (April 27 Update)</h2>
 
-In response to the ongoing COVID-19 pandemic, PolMeth XXXVII will be held as a virtual (i.e. online) conference this summer.  We would like to thank everyone who submitted a proposal despite the difficult times we are facing.  Participation was much higher than we excepted.  Given the large volume of submissions and the adjustments we had to make on the fly, we expect that acceptance emails will not go out before April 27.  We also plan to give a more concrete description of the conference format to participants at that time.
+In response to the ongoing COVID-19 pandemic, PolMeth XXXVII will be held as a virtual (i.e. online) conference from July 14 to July 17, 2020.  We would like to thank everyone who submitted a proposal despite the unsual times we are traversing.
 
-The emerging consensus among the various people we consulted is that we should prioritize live (web-conferencing) talks for paper presentations, as opposed to other online formats such as prerecorded videos.  We are also considering the feasibility of having some form of live interactions for graduate students.  This would bring us closer to reproducing the experience of an in-person conference.  On the other hand, a live format poses logistical challenges.  A first implication is that we may need to extend the dates of the conference (by adding one day, if not two), to ensure that scholars from different time zones are able to join simultaneously.  Another implication is that we may not be able to accept as many proposals as we would normally have.
+Acceptance emails will be sent beginning on April 27, and the process will be finalized by the end of this week.
 
-We thank members of the PolMeth community for their patience and for their willingness to join us in this adventure.  More details to follow.
+The emerging consensus among the various people we consulted is that we should prioritize live (web-conferencing) talks for paper presentations, as opposed to other online formats such as prerecorded videos.  This will bring us closer to reproducing the experience of an in-person conference.
+
+On the other hand, a live format poses logistical challenges.  A first implication is that we had to extend the dates of the conference, so that scholars from different time zones are able to join simultaneously.  The conference will take place between July 14 and July 17, 2020.  The live talks will take place between noon and 5PM EST (or 9AM and 2PM, PST).  Another implication is that we were unable to accept as many proposals as we would normally have.
+
+We thank members of the PolMeth community for their patience and for their willingness to join us in this adventure.  We will keep you updated on our progress.
 
 <h2>PolMeth XXXVII</h2>
 
-The 37th annual meeting of the Society for Political Methodology (PolMeth XXXVII) will be a virtual (online) conference taking place from July 16 to July 18, 2020.  The dates of July 14 and July 15 may be added to accommodate the change in format.
+The 37th annual meeting of the Society for Political Methodology (PolMeth XXXVII) will be a virtual (online) conference taking place from July 14 to July 17, 2020. 
 
 The Society for Political Methodology, the National Science Foundation, and host institutions have supported a summer conference in political methodology since 1984.
 
-Relevant information about the conference will be posted on this website.
+Relevant information about the conference will be posted on this website.  A dedicated conference website will be created for the event.  When launched, we will link to this new website.
 
 <h2 id="dates">Important Dates</h2>
 <center>
@@ -40,7 +44,7 @@ Relevant information about the conference will be posted on this website.
         <tr>
             <td style="width: 50%;"><b>Acceptance emails - regular presentations (expected)</b><br/></td>
             <td style="width: 15%;"></td>
-            <td style="width: 25%;"><font color="red">April 27, 2020</font></td>
+            <td style="width: 25%;"><font color="red">Week of April 27, 2020</font></td>
         </tr>
         <tr>
             <td style="width: 50%;"><b>Acceptance emails - poster session (expected)</b><br/></td>
