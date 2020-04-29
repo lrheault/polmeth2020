@@ -7,17 +7,17 @@ header:
 excerpt: <br/>
 ---
 
-<h2>PolMeth XXXVII: A Virtual Conference (April 27 Update)</h2>
+<h2>PolMeth XXXVII: A Virtual Conference (April 28 Update)</h2>
 
-In response to the ongoing COVID-19 pandemic, PolMeth XXXVII will be held as a virtual (i.e. online) conference from July 14 to July 17, 2020.  We would like to thank everyone who submitted a proposal despite the unsual times we are traversing.
+In response to the ongoing COVID-19 pandemic, PolMeth XXXVII will be held as a virtual (i.e. online) conference from July 14 to July 17, 2020.  We would like to thank everyone who submitted a proposal despite the challenging times we are facing.
 
-Acceptance emails will be sent beginning on April 27, and the process will be finalized by the end of this week.
+Acceptance emails will be sent from April 27 until the end of this week.
 
-The emerging consensus among the various people we consulted is that we should prioritize live (web-conferencing) talks for paper presentations, as opposed to other online formats such as prerecorded videos.  This will bring us closer to reproducing the experience of an in-person conference.
+The conference will feature live talks for paper presentations, using a web conferencing platform.  A vendor has been contracted to create a dedicated conference website that will contain the program and host the posters on individualized webpages, with comment sections.  We expect that new website to go live a few weeks prior to the conference.
 
-On the other hand, a live format poses logistical challenges.  A first implication is that we had to extend the dates of the conference, so that scholars from different time zones are able to join simultaneously.  The conference will take place between July 14 and July 17, 2020.  The live talks will take place between noon and 5PM EST (or 9AM and 2PM, PST).  Another implication is that we were unable to accept as many proposals as we would normally have.
+Please note that we had to extend the dates of the conference, so that scholars from different time zones are able to join simultaneously.  The conference will take place between July 14 and July 17, 2020.  The live talks will be scheduled between noon and 5PM EST (or 9AM and 2PM, PST).  The preliminary program for the conference will be announced shortly.
 
-We thank members of the PolMeth community for their patience and for their willingness to join us in this adventure.  We will keep you updated on our progress.
+We thank members of the PolMeth community for their willingness to join us in this adventure.
 
 <h2>PolMeth XXXVII</h2>
 
