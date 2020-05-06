@@ -9,11 +9,11 @@ toc_icon: "cog"
 
 ## Submit a Proposal
 
-Thank you for your interest!  The Program Committee and Graduate Student Selection Committee are currently evaluating proposals.
+Thank you for your interest!  The proposal submission process is now closed.
 
 ## PolMeth XXXVII Call for Proposals (Updated)
 
-The 37th Annual Meeting of the Society for Political Methodology (PolMeth XXXVII) is currently accepting proposals until April 3, 2020.  The meeting will be a virtual (online) conference scheduled to take place from July 16 to July 18, 2020.
+The 37th Annual Meeting of the Society for Political Methodology (PolMeth XXXVII) is currently accepting proposals until April 3, 2020.  The meeting will be a virtual (online) conference scheduled to take place from July 14 to July 17, 2020.
 
 You are welcome to submit proposals using the following link (click "Abstract Submission" to proceed):
 

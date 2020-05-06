@@ -7,13 +7,13 @@ header:
 excerpt: <br/>
 ---
 
-<h2>PolMeth XXXVII: A Virtual Conference (April 28 Update)</h2>
+<h2>PolMeth XXXVII: A Virtual Conference (May 5 Update)</h2>
 
 In response to the ongoing COVID-19 pandemic, PolMeth XXXVII will be held as a virtual (i.e. online) conference from July 14 to July 17, 2020.  We would like to thank everyone who submitted a proposal despite the challenging times we are facing.
 
-Acceptance emails will be sent from April 27 until the end of this week.
-
 The conference will feature live talks for paper presentations, using a web conferencing platform.  A vendor has been contracted to create a dedicated conference website that will contain the program and host the posters on individualized webpages, with comment sections.  We expect the conference website to go live a few weeks prior to the conference.
+
+The conference will be free for members of the Society for Political Methodology.  We will send invitations to register in May.
 
 Please note that we had to extend the dates of the conference, so that scholars from different time zones are able to join simultaneously.  The conference will take place between July 14 and July 17, 2020.  The live talks will be scheduled between noon and 5PM EST (or 9AM and 2PM, PST).  The preliminary program for the conference will be announced shortly.
 
@@ -54,7 +54,7 @@ Relevant information about the conference will be posted on this website.  A ded
         <tr>
             <td style="width: 50%;"><b>Registration deadline</b></td>
             <td style="width: 15%;"></td>
-            <td style="width: 25%;">May 22, 2020</td>
+            <td style="width: 25%;">June 12, 2020</td>
         </tr>    
 
         <tr>
