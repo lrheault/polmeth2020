@@ -39,17 +39,17 @@ Relevant information about the conference will be posted on this website.  A ded
         <tr>
             <td style="width: 50%;"><b>Proposal submission deadline</b></td>
             <td style="width: 15%;"></td>
-            <td style="width: 25%;"><font color="red">April 3, 2020</font></td>
+            <td style="width: 25%;">April 3, 2020</font></td>
         </tr>
         <tr>
-            <td style="width: 50%;"><b>Acceptance emails - regular presentations (expected)</b><br/></td>
+            <td style="width: 50%;"><b>Acceptance emails - regular presentations</b><br/></td>
             <td style="width: 15%;"></td>
-            <td style="width: 25%;"><font color="red">Week of April 27, 2020</font></td>
+            <td style="width: 25%;">Week of April 27, 2020</font></td>
         </tr>
         <tr>
-            <td style="width: 50%;"><b>Acceptance emails - poster session (expected)</b><br/></td>
+            <td style="width: 50%;"><b>Acceptance emails - poster session</b><br/></td>
             <td style="width: 15%;"></td>
-            <td style="width: 25%;"><font color="red">April 27, 2020</font></td>
+            <td style="width: 25%;">April 27, 2020</font></td>
         </tr>
         <tr>
             <td style="width: 50%;"><b>Registration deadline</b></td>
