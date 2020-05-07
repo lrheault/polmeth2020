@@ -13,9 +13,9 @@ In response to the ongoing COVID-19 pandemic, PolMeth XXXVII will be held as a v
 
 The conference will feature live talks for paper presentations, using a web conferencing platform.  A vendor has been contracted to create a dedicated conference website that will contain the program and host the posters on individualized webpages, with comment sections.  We expect the conference website to go live a few weeks prior to the conference.
 
-The conference will be free for members of the Society for Political Methodology.  We will send invitations to register in May.
+The conference will be free for members of the Society for Political Methodology.  We will send invitations to register during the week of May 11.
 
-Please note that we had to extend the dates of the conference, so that scholars from different time zones are able to join simultaneously.  The conference will take place between July 14 and July 17, 2020.  The live talks will be scheduled between noon and 5PM EST (or 9AM and 2PM, PST).  The preliminary program for the conference will be announced shortly.
+Please note that we had to extend the dates of the conference, so that scholars from different time zones are able to join simultaneously.  The conference will take place between July 14 and July 17, 2020.  The live talks will be scheduled between noon and 5.30PM EST (or 9AM and 2.30PM, PST).  The preliminary program for the conference will be announced shortly.
 
 We thank members of the PolMeth community for their willingness to join us in this adventure.
 
