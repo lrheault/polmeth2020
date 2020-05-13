@@ -7,6 +7,18 @@ header:
 excerpt: <br/>
 ---
 
+<h2>Register</h2>
+
+Presenters, co-authors, discussants and other members of the Society for Political Methodology wishing to attend live presentations during the meeting are invited to register by June 12.
+
+Use this link to complete the registration process:
+
+<a href="https://www.cambridge.org/gb/academic/registration-form-polmeth-xxxvii/" target="_blank" class="btn btn-lg btn--primary">Register for PolMeth XXXVII</a>
+
+We are pleased to announce that registration is free for members of the Society for Political Methodology.  If you are not a member, please make sure to obtain or renew your membership before registering:
+
+<a href="https://www.cambridge.org/core/membership/spm/membership" target="_blank" class="btn btn-lg btn--primary">Become a Member/Renew Membership</a>
+
 <h2>PolMeth XXXVII: A Virtual Conference (May 5 Update)</h2>
 
 In response to the ongoing COVID-19 pandemic, PolMeth XXXVII will be held as a virtual (i.e. online) conference from July 14 to July 17, 2020.  We would like to thank everyone who submitted a proposal despite the challenging times we are facing.
