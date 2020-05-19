@@ -7,8 +7,8 @@ main:
   - title: "Register"
     url: /register/
 
-# - title: "Program"
-#   url: /program/
+  - title: "Program"
+    url: /program/
 
 # - title: "Posters"
 #   url: /posters/
