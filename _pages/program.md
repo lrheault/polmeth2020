@@ -261,7 +261,7 @@ Live poster sessions with graduate students approaching the job market.
 </table>
 
 
-<p style="color:#00204e; display:inline"><b>Virtual Room 3: Conjoint Designs (Extended Panel)</b></p>
+<p style="color:#00204e; display:inline"><b>Virtual Room 3: Conjoint Designs (Extended Panel to 2:15pm ET)</b></p>
 
 <table style="width: 95%; font-size:90%">
 	<tbody>
