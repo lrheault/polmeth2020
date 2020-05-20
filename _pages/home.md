@@ -31,13 +31,18 @@ Please note that we had to extend the dates of the conference, so that scholars 
 
 We thank members of the PolMeth community for their willingness to join us in this adventure.
 
-<h2>PolMeth XXXVII</h2>
+<h2>Sponsors</h2>
 
-The 37th annual meeting of the Society for Political Methodology (PolMeth XXXVII) will be a virtual (online) conference taking place from July 14 to July 17, 2020. 
+We would like to thank our generous sponsors:
 
-The Society for Political Methodology, the National Science Foundation, and host institutions have supported a summer conference in political methodology since 1984.
+<h3> <a href="https://politics.utoronto.ca/" target="_blank">Department of Political Science, University of Toronto</a> </h3>
 
-Relevant information about the conference will be posted on this website.  A dedicated conference website will be created for the event.  When launched, we will link to this new website.
+<h3> <a href="https://www.nsf.gov/" target="_blank">National Science Foundation</a> </h3>
+
+<h3> <a href="https://www.facebook.com/" target="_blank">Facebook</a> </h3>
+
+<br>
+We also thank the University of Toronto Faculty of Law, the Hart House, the Victoria College residences, and the Kimpton St. George Hotel for their exemplary response to the national emergency and for accepting to cancel in-person arrangements.
 
 <h2 id="dates">Important Dates</h2>
 <center>

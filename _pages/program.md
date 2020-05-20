@@ -267,7 +267,7 @@ Live poster sessions with graduate students approaching the job market.
 	<tbody>
 	<tr><td width="50%"><b>Katherine Clayton</b> (Stanford University)<br>Co-authors: Yusaku Horiuchi, Aaron Kaufman, Gary King, Mayya Komisarchik</td>
 	<td width="50%"><b> Avoiding Measurement Error Bias in Conjoint Analysis </b></td></tr>
-	<tr><td width="50%"><b>Anton Strezhnev</b> (New York University)<br>Co-authors: Scott Abramson, Korhan Kocak, Asya Magazinnik, </td>
+	<tr><td width="50%"><b>Anton Strezhnev</b> (New York University)<br>Co-authors: Scott Abramson, Korhan Kocak, Asya Magazinnik </td>
 	<td width="50%"><b> Improving Preference Elicitation in Conjoint Designs using Machine Learning for Heterogeneous Effects </b></td></tr>
 	<tr><td width="50%"><b>Daniel Hopkins</b> (University of Pennsylvania)<br>Co-authors: Kirk Bansak, Jens Hainmueller, Teppei Yamamoto</td>
 	<td width="50%"><b> What Conjoint Experiments Can and Cannot Say about Voter Preferences </b></td></tr>
@@ -279,7 +279,7 @@ Live poster sessions with graduate students approaching the job market.
 
 <table style="width: 95%; font-size:90%">
 	<tbody>
-	<tr><td width="50%"><b>Sarah Dreier</b> (University of Washington)<br>Co-authors: Emily Gade, Jose Hernandez, Noah A. Smith</td>
+	<tr><td width="50%"><b>Sarah Dreier</b> (University of Washington)<br>Co-authors: Emily Gade, Jose Hernandez, Noah A. Smith, Sofia Serrano</td>
 	<td width="50%"><b> Troubles in/with Text: Combining qualitative and NLP approaches to analyzing government archives from the UK Troubles in Northern Ireland </b></td></tr>
 	<tr><td width="50%"><b>Jacob Montgomery</b> (WUSTL)<br>Co-authors: Roman Garnett and Ryden Butler</td>
 	<td width="50%"><b> Bayesian Nonparametric Active Learning for Crowdsourced Coding of Political Data </b></td></tr>
