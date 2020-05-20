@@ -26,7 +26,7 @@ Preliminary program for paper presentations.
 </table>
 
 
-<p style="color:#00204e; display:inline"><b>Virtual Room 2: Conjoint Experiments</b></p>
+<p style="color:#00204e; display:inline"><b>Virtual Room 2: Experimental Designs</b></p>
 
 <table style="width: 95%; font-size:90%">
 	<tbody>
