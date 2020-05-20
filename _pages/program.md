@@ -184,7 +184,7 @@ Live poster sessions with graduate students approaching the job market.
 ### Panel IV 
 2.30PM to 4:00PM Eastern Time (11:30AM to 1PM Pacific Time)
 
-<p style="color:#00204e; display:inline"><b>Virtual Room 1: Hierarchical Models</b></p>
+<p style="color:#00204e; display:inline"><b>Virtual Room 1: Hierarchical Data</b></p>
 
 <table style="width: 95%; font-size:90%">
 	<tbody>
