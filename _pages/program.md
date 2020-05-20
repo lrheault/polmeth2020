@@ -33,7 +33,7 @@ Preliminary program for paper presentations.
 	<tr><td width="50%"><b>Libby Jenke</b> (University of Houston)<br>Co-authors: Kirk Bansak, Jens Hainmueller, Dominik Hangartner</td>
 	<td width="50%"><b> Using Eye-Tracking to Understand Decision-Making in Conjoint Experiments </b></td></tr>
 	<tr><td width="50%"><b>Yamil Velez</b> (Columbia University)<br>Co-authors: Jason Barabas, John Kane</td>
-	<td width="50%"><b> Analyzing the Attentive and Bypass Bias: Using Mock Vignettes in Survey Experiments </b></td></tr>
+	<td width="50%"><b> Analyze the Attentive and Bypass Bias: Using Mock Vignettes in Survey Experiments </b></td></tr>
 	</tbody>
 </table>
 

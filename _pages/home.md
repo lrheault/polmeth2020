@@ -9,7 +9,7 @@ excerpt: <br/>
 
 <h2>Register</h2>
 
-Presenters, co-authors, discussants and other members of the Society for Political Methodology wishing to attend live presentations during the meeting are invited to register by June 12.
+Presenters, co-authors and other members of the Society for Political Methodology wishing to attend live presentations during the meeting are invited to register by June 12.
 
 Use this link to complete the registration process:
 
