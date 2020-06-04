@@ -13,8 +13,8 @@ main:
 # - title: "Posters"
 #   url: /posters/
 
-#  - title: "Lodging"
-#    url: /lodging/
+  - title: "Instructions"
+    url: /instructions/
 
 #  - title: "Travel"
 #    url: /travel/

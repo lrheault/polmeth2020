@@ -165,7 +165,7 @@ Live poster sessions with graduate students approaching the job market.
 	<tr><td width="50%"><b>Erin Hartman</b> (UCLA)<br>Co-authors: Naoki Egami</td>
 	<td width="50%"><b> Elements of External Validity: Framework, Design, and Analysis </b></td></tr>
 	<tr><td width="50%"><b>Parrish Bergquist</b> (Yale University)</td>
-	<td width="50%"><b> Introducing a Continuous Climate Climate Concern Scale for the Use in Experimental Research </b></td></tr>
+	<td width="50%"><b> Introducing a Continuous Climate Change Concern Scale for the Use in Experimental Research </b></td></tr>
 	</tbody>
 </table>
 
