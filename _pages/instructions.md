@@ -9,15 +9,17 @@ toc_label: "Schedule"
 ---
 
 
-This page summarizes the format of the online conference.  Importantly, we ask all participants to please ensure that communications from the email address polmeth@utoronto.ca are not redirected to a spam folder.  This situation would place us in a conundrum: there is no way for us to know that you haven't received emails, and even if we send you reminders, you would not see them.  At this point in time, all applicants who submitted a proposal have been contacted.  We will be in touch with participants in the weeks before the conference to provide on logistics.
+This page summarizes the format of the online conference.
+
+Importantly, we ask all participants to ensure that communications from the email address [polmeth@utoronto.ca](mailto:polmeth@utoronto.ca) are not redirected to a spam folder.  This would place us in a conundrum: there is no way for us to know that you haven't received emails, and even if we send you reminders, you would not see them.  We will be in touch with participants in the weeks before the conference to provide information on logistics.
 
 ## Paper Presenters and Discussants
 
-The format for the virtual panels will resemble that of the International Methods Colloquium.  We plan to use Zoom Webinars for each concurrent panel, depending on the total number of registrants.  Paper presenters, their co-authors (if they choose to) and discussants will be invited to join as "panelists".  Panelists normally join the meeting with video and audio.  Other registered participants will be invited to join as "attendees".  Attendees will be able to watch the broadcast of each panel live, participate in the chat, and ask questions with audio during the audience question period.
+The format for the virtual panels will resemble that of the International Methods Colloquium.  We expect to use Zoom Webinars.  Paper presenters, their co-authors (if they choose to) and discussants will be invited to join as "panelists".  Other registered participants will be invited to join as "attendees".  Attendees will be able to watch the broadcast of each panel live, interact in the chat, and ask questions with audio during the audience question period.
 
-A host (the equivalent of a chair for in-person conferences) will supervise each virtual panel.  The host will typically be an organizer, a Fellow of the Society, or an experienced member.  Each panel will have a co-host, a graduate student trained to ensure the smooth flow of the discussion.
+A host (the equivalent of a chair for in-person conferences) will supervise each virtual panel.  The host will typically be an organizer, a Fellow of the Society, or an experienced member.  Each panel will have a co-host, a graduate student trained to ensure the smooth flow of the discussion and provide logistical support.
 
-We will ask that presenters be prepared to share their paper with their discussant by **Monday, July 6** at the latest, one week ahead of the conference.
+We ask that presenters be prepared to share their paper with their discussant by **Monday, July 6** at the latest, one week ahead of the conference.
 
 ### Expected Presentation Length
 
