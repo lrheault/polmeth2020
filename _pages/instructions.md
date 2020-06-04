@@ -5,7 +5,7 @@ permalink: /instructions/
 sidebar: false
 toc: true
 toc_icon: "cog"
-toc_label: "Schedule"
+toc_label: "Contents"
 ---
 
 
