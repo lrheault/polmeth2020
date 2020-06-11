@@ -17,7 +17,7 @@ Regardless of their year of study, all poster presenters will see their work fea
 ## Tuesday, July 14
 2:30pm to 4:30pm Eastern time (11:30am to 1:30pm Pacific time)
 
-### Virtual Session 1: Causal Inference and Engogeneity
+### Meeting Room 1: Causal Inference and Engogeneity
 
 - Ye Wang (New York University) <br>
 Causal Inference under Temporal and Spatial Interference
@@ -32,7 +32,7 @@ Violation of Bright Lines, Term Limit Evasion and Information Control
 - Christopher Schwarz (New York University) <br>
 Agnostic Sensitivity Analysis
 
-### Virtual Session 2: Comparative Politics and Regression Discontinuity
+### Meeting Room 2: Comparative Politics and Regression Discontinuity
 
 - Ali Ahmed (New York University) <br>
 When Inequality Matters: The Role of Wealth during England's Democratic Transition
@@ -47,7 +47,7 @@ The Imperial Army and the Russian Civil War: The Path From Oppression to Insurre
 - Gustavo Diaz (University of Illinois at Urbana–Champaign) <br>
 A Variable Selection Approach to Spillovers in Observational Studies
 
-### Virtual Session 3: Difference-in-Difference Models
+### Meeting Room 3: Difference-in-Difference Models
 
 - Thomas Leavitt (Columbia University) <br>
 Drawing Causal Inferences from Difference-in-Differences Designs under Uncertainty in Parallel
@@ -64,7 +64,7 @@ When Electoral Access Does Not Promote Participation
 Co-authors: Sarah Treul, Maura McDonald <br>
 Changing the Dialogue: Candidate Position-Taking in Primary Elections
 
-### Virtual Session 4: Experimental Designs
+### Meeting Room 4: Experimental Designs
 
 - Emily Wager (University of North Carolina at Chapel Hill) <br>
 Co-authors: Rebecca Kreitzer <br>
@@ -79,7 +79,7 @@ A General Method for Detecting & Characterizing Interference in Field Experiment
 - Alessio Albarello (University of Rochester) <br>
 Who Gets Their Way in Coalition Policy?
 
-### Virtual Session 5: Ideal Point Estimation
+### Meeting Room 5: Ideal Point Estimation
 
 - Tzu-Ping Liu (University of California Davis) <br>
 Co-authors: Takanori Fujiwara <br>
@@ -96,7 +96,7 @@ Latent factor approach to missing not at random
 Co-authors: Tzu-Ping Liu, Samuel Fuller <br>
 Non-Parametric Bridging of Non-Parametric Ideological Scales: Application to Mapping Voters on Politicians’ Ideological Space
 
-### Virtual Session 6: Item Response/Crosswise Models
+### Meeting Room 6: Item Response/Crosswise Models
 
 - Yuki Atsusaka (Rice University) <br>
 Co-authors: Randy Stevenson, Ahra Wu <br>
@@ -131,7 +131,7 @@ Beyond Topics: Semi-Supervised Learning for Texts from a Measurement Perspective
 - Luke Sanford (University of California, San Diego) <br>
 Remote Sensing: Measurement and Causal Inference
 
-### Virtual Session 8: Political Behavior and Measurement
+### Meeting Room 8: Political Behavior and Measurement
 
 - Shiro Kuriwaki (Harvard University) <br>
 Clustering large-scale ballot data with varying choice sets
@@ -146,7 +146,7 @@ Attributable Risk of Race: Detecting Partisan and Racial Gerrymandering
 - Gabriel Madson (Duke University) <br>
 The Heuristic Issue Voter: Issue Preferences and Candidate Choice
 
-### Virtual Session 9: Social Media, Social Networks and Democracy
+### Meeting Room 9: Social Media, Social Networks and Democracy
 
 - Omer Faruk Yalcin (Pennsylvania State University) <br>
 Measuring Political Elite Networks with WikiData
@@ -161,7 +161,7 @@ Framing Democracy: Identifying Autocratic Anti-Democratic Propaganda Using Word 
 - Sean Norton (UNC-Chapel HIll) <br>
 Who Do You Think You’re Fooling? Examining the Internal Russian Disinformation Campaign
 
-### Virtual Session 10: Surveys and Survey Experiments
+### Meeting Room 10: Surveys and Survey Experiments
 
 - Natalia Lamberova (University of California, Los Angeles) <br>
 The Puzzling Politics of R&D: Signaling Competence through Risky Projects
@@ -176,7 +176,7 @@ Identification
 - Erin Rossiter (Washington University in St. Louis) <br>
 The Consequences of Social Interaction on Outparty Affect and Stereotypes
 
-### Virtual Session 11: Text and Image Data
+### Meeting Room 11: Text and Image Data
 
 - Benjamin Guinaudeau (University of Konstanz) <br>
 Co-authors: Simon Roth (University of Konstanz) <br>
@@ -192,7 +192,7 @@ Joint Image-Text Classification Using A Transformer-Based Architecture
 - Yin Yuan (University of California, San Diego) <br>
 Decoding Propaganda Slogans in China: Reading Between the Lines Using Word Embeddings
 
-### Virtual Session 12: Time Series and Survival Analysis
+### Meeting Room 12: Time Series and Survival Analysis
 
 - Nadiya Kostyuk (University of Michigan, Ann Arbor) <br>
 Diffusion of Cybersecurity Policies
