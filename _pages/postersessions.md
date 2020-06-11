@@ -114,7 +114,7 @@ Measuring Regulatory Barriers Using Annual Reports of Firms
 ## Wednesday, July 15
 2:30pm to 4:30pm Eastern time (11:30am to 1:30pm Pacific time)
 
-###  Virtual Session 7: Machine Learning
+### Meeting Room 7: Machine Learning
 
 - Matthew Tyler (Stanford University) <br>
 Rigorous Subjectivity: Demystifying and Improving Human Coding with Statistical Models
