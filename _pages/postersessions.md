@@ -8,7 +8,7 @@ toc_icon: "cog"
 toc_label: "Schedule"
 ---
 
-On July 14 and July 15, meeting rooms will be set up for graduate students approaching the job market (or recent graduates) to present their posters.   Each session will feature four poster presenters.  The goal is to reproduce the experience of an in-person poster session, which is  more informal than a panel presentation. Each presenter will be invited to summarize their study, followed by a Q&A with the other participants.
+On July 14 and July 15, meeting rooms will be set up for graduate students approaching the job market (or recent graduates) to present their work in small group poster sessions.   Each session will feature four poster presenters.  The goal is to reproduce the experience of an in-person poster session, which is  more informal than a panel presentation. Each presenter will be invited to summarize their study, followed by a Q&A with the other participants.
 
 We aim to invite at least two faculty who volunteered as discussants to join each session, and hope that more will stop by.   This format is experimental, and was developed as a response to the contraints posed by the COVID-19 pandemic.
 
@@ -17,7 +17,7 @@ Regardless of their year of study, all poster presenters will see their work fea
 ## Tuesday, July 14
 2:30pm to 4:30pm Eastern time (11:30am to 1:30pm Pacific time)
 
-### Meeting Room 1: Causal Inference and Engogeneity
+### Meeting Room 1: Causal Inference and Endogeneity
 
 - Ye Wang (New York University) <br>
 Causal Inference under Temporal and Spatial Interference

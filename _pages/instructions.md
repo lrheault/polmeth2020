@@ -35,7 +35,7 @@ Presenters and discussants will be able to share their screen and use slides, if
 
 Poster presenters will be invited to upload their poster before the launch of the conference, by **Monday, July 13**.  Our vendor is expected to deliver the conference website by the end of June.  The conference website will feature individual pages for each online poster.  These pages will have social media integration tools and a comment section for visitors to interact with the authors.  We will attract as much traffic as we can to showcase the work of our poster presenters.
 
-Online poster pages will have a PDF viewer.  The expected format for presenters is the usual template for conference posters, which helps visitors to get a good overview of the work.  Presenters who would like to upload their paper in addition to the poster will be able to do so, if they choose to.  Once the conference website is ready, we will provide more specific requirements. 
+Online poster pages will have a PDF viewer.  The expected format for presenters is the usual template for conference posters, which helps visitors to get a good overview of the work.  Presenters who would like to upload their paper in addition to the poster will be able to do so, if they choose to.  Once the conference website is ready, we will provide more specific guidelines. 
 
 ## Small Group Poster Sessions
 
