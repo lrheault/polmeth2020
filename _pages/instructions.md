@@ -11,7 +11,7 @@ toc_label: "Contents"
 
 This page summarizes the format of the online conference.
 
-Importantly, we ask all participants to ensure that communications from the email address [polmeth@utoronto.ca](mailto:polmeth@utoronto.ca) are not redirected to a spam folder.  This would place us in a conundrum: there is no way for us to know that you haven't received emails, and even if we send you reminders, you would not see them.  We will be in touch with participants in the weeks before the conference to provide information on logistics.
+Importantly, we ask all participants to ensure that communications from the email address [polmeth@utoronto.ca](mailto:polmeth@utoronto.ca) are not redirected to a spam folder.  We will be in touch with participants in the weeks before the conference to provide important information on logistics.
 
 ## Paper Presenters and Discussants
 
