@@ -10,11 +10,11 @@ main:
   - title: "Program"
     url: /program/
 
-# - title: "Posters"
-#   url: /posters/
-
   - title: "Instructions"
     url: /instructions/
+
+  - title: "Virtual Poster Sessions"
+    url: /postersessions/
 
 #  - title: "Travel"
 #    url: /travel/

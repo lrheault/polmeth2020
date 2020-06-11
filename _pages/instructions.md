@@ -15,7 +15,7 @@ Importantly, we ask all participants to ensure that communications from the emai
 
 ## Paper Presenters and Discussants
 
-The format for the virtual panels will resemble that of the International Methods Colloquium.  We expect to use Zoom Webinars.  Paper presenters, their co-authors (if they choose to) and discussants will be invited to join as "panelists".  Other registered participants will be invited to join as "attendees".  Attendees will be able to watch the broadcast of each panel live, interact in the chat, and ask questions with audio during the audience question period.
+The format for the virtual panels will resemble that of the International Methods Colloquium.  We expect to use Zoom Webinars.  Paper presenters, their co-authors (if they choose to) and discussants will be invited to join as **panelists**.  Other registered participants will be invited to join as **attendees**.  Attendees will be able to watch the broadcast of each panel live, interact in the chat, and ask questions with audio during the audience question period.
 
 A host (the equivalent of a chair for in-person conferences) will supervise each virtual panel.  The host will typically be an organizer, a Fellow of the Society, or an experienced member.  Each panel will have a co-host, a graduate student trained to ensure the smooth flow of the discussion and provide logistical support.
 
