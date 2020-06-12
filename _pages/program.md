@@ -69,6 +69,14 @@ Live poster sessions with graduate students approaching the job market.
 ### Plenary Session
 4:30PM to 5:30PM Eastern Time (1:30PM to 2:30PM Pacific Time)
 
+Make sure to join our speakers for an engaging talk that will showcase methods for the study of diversity in politics, with a focus on race and ethnicity.  More details will follow on the upcoming conference website.
+
+<table style="width: 95%; font-size:90%">
+    <tbody>
+    <tr><td width="100%"><b>Marisa A. Abrajano</b> (UCSD)</td></tr>
+    <tr><td width="100%"><b>Allison Harris</b> (Yale University)</td></tr>
+	</tbody>
+</table>
 
 
 ## Wednesday, July 15
