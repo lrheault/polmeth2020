@@ -37,7 +37,7 @@ Poster presenters will be invited to upload their poster before the launch of th
 
 Online poster pages will have a PDF viewer.  The expected format for presenters is the usual template for conference posters, which helps visitors to get a good overview of the work.  Presenters who would like to upload their paper in addition to the poster will be able to do so, if they choose to.  Once the conference website is ready, we will provide more specific guidelines. 
 
-We link some useful guides to create scientific posters below (obviously, there is no need for printing):
+We link to some useful guides for creating scientific posters below (obviously, there is no need for printing):
 
 <a href="https://www.craftofscientificposters.com/" target="_blank" class="btn btn-lg btn--primary">Scientific Posters (Penn State)</a>
 
