@@ -33,6 +33,10 @@ Please note that we had to extend the dates of the conference, so that scholars 
 
 We thank members of the PolMeth community for their willingness to join us in this adventure.
 
+<h2>Contact</h2>
+
+You can reach the organizers at: polmeth@utoronto.ca
+
 <h2>Sponsors</h2>
 
 We would like to thank our generous sponsors:
