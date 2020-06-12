@@ -190,8 +190,7 @@ Live poster sessions with graduate students approaching the job market.
 	<tbody>
 	<tr><td width="50%"><b>Max Goplerud</b> (Harvard University)</td>
 	<td width="50%"><b> Marginally Augmented Variational Bayes for Non-Linear Hierarchical Models </b></td></tr>
-	<tr><td width="50%"><b>Constanza F. Schibber</b> (Michigan State University)<br>Co-authors: Shahryar Minhas</td>
-	<td width="50%"><b> Cross-validation Strategies for Political Data with Hierarchical Structure </b></td></tr>
+
 	</tbody>
 </table>
 
