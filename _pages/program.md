@@ -71,10 +71,10 @@ Live poster sessions with graduate students approaching the job market.
 
 Make sure to join our speakers for an engaging talk that will showcase methods for the study of diversity in politics, with a focus on race and ethnicity.  More details will follow on the upcoming conference website.
 
-<table style="width: 95%; font-size:90%">
+<table style="width: 95%; font-size:100%">
     <tbody>
-    <tr><td width="100%"><h3><b>Marisa A. Abrajano</b> (UCSD)</h3></td></tr>
-    <tr><td width="100%"><h3><b>Allison Harris</b> (Yale University)</h3></td></tr>
+    <tr><td width="100%"><b>Marisa A. Abrajano</b> (UCSD)</td></tr>
+    <tr><td width="100%"><b>Allison Harris</b> (Yale University)</td></tr>
 	</tbody>
 </table>
 
