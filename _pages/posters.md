@@ -1,12 +1,14 @@
 ---
-title: "Virtual Poster Sessions"
+title: "Posters"
 layout: single
-permalink: /postersessions/
+permalink: /posters/
 sidebar: false
 toc: true
 toc_icon: "cog"
 toc_label: "Online Posters"
 ---
+
+The complete list of posters that will be featured on our upcoming website.
 
 ## Faculty Posters
 

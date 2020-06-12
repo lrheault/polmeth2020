@@ -16,8 +16,8 @@ main:
   - title: "Virtual Poster Sessions"
     url: /postersessions/
 
-#  - title: "Travel"
-#    url: /travel/
+  - title: "Posters"
+    url: /posters/
 
   - title: "Diversity"
     url: /diversity/
