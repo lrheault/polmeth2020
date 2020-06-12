@@ -40,8 +40,11 @@ Online poster pages will have a PDF viewer.  The expected format for presenters 
 We link some useful guides to create scientific posters below (obviously, omit the part about printing):
 
 <a href="https://www.craftofscientificposters.com/" target="_blank" class="btn btn-lg btn--primary">Scientific Posters (Penn State)</a>
+
 <a href="https://colinpurrington.com/tips/poster-design/" target="_blank" class="btn btn-lg btn--primary">Poster Design (Colin Purrington)</a>
+
 <a href="https://guides.nyu.edu/posters" target="_blank" class="btn btn-lg btn--primary">Poster Basics (NYU)</a>
+
 <a href="https://guides.library.utoronto.ca/c.php?g=251602&p=1674771" target="_blank" class="btn btn-lg btn--primary">General Poster Design Guides (Toronto)</a>
 
 ## Small Group Poster Sessions
