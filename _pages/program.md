@@ -73,8 +73,8 @@ Make sure to join our speakers for an engaging talk that will showcase methods f
 
 <table style="width: 95%; font-size:90%">
     <tbody>
-    <tr><td width="100%"><b>Marisa A. Abrajano</b> (UCSD)</td></tr>
-    <tr><td width="100%"><b>Allison Harris</b> (Yale University)</td></tr>
+    <tr><td width="100%"><h3><b>Marisa A. Abrajano</b> (UCSD)</h3></td></tr>
+    <tr><td width="100%"><h3><b>Allison Harris</b> (Yale University)</h3></td></tr>
 	</tbody>
 </table>
 
