@@ -94,6 +94,9 @@ Would voters become more rightward leaning after they decide to support radical 
 - Angela Chesler (University of Notre Dame)<br>
 Quantifying Triggers with Event Coincidence Analysis: An Application to Mass Civilian Killings in Civil War, 1989-2017
 
+- Patrick Chester (New York University)<br>
+Framing Democracy: Identifying Autocratic Anti-Democratic Propaganda Using Word Embeddings
+
 - Dahyun Choi (Princeton University)<br>
 Cheap Talk or Circuit to the Legislature: Why do Corporations Express Public Support for and Opposition against Free Trade?
 
@@ -105,6 +108,9 @@ A Variable Selection Approach to Spillovers in Observational Studies
 
 - Gemma Dipoppa (University of pennsylvania)<br>
 How Criminal Organizations Expand to Strong States: Migrants' Exploitation and Vote Buying in Northern Italy
+
+- Lucas de Abreu Maia (University of California, San Diego)<br>
+Disaffected Partisans: How Voters are Emphasizing Ideological Labels and De-Emphasizing Party Identification
 
 - Shusei Eshima (Harvard University)<br>
 Co-author(s): Kosuke Imai, Tomoya Sasaki<br>
@@ -188,6 +194,9 @@ The Puzzling Politics of R&D: Signaling Competence through Risky Projects
 - Caroline Lancaster (UNC Chapel Hill)<br>
 Value Shift: Immigration Attitudes and the Sociocultural Divide
 
+- Isabel Laterzo (UNC Chapel Hill)<br>
+Estimating the Dark Figure of Crime using Bayesian Additive Regression Trees plus Poststratification (BARP)
+
 - Thomas Leavitt (Columbia University)<br>
 Drawing Causal Inferences from Difference-in-Differences Designs under Uncertainty in Parallel Trends
 
@@ -203,9 +212,6 @@ Contrastive Multiple Component Analysis (cMCA): Applying the Contrastive Learnin
 
 - Gabriel Madson (Duke University)<br>
 The Heuristic Issue Voter: Issue Preferences and Candidate Choice
-
-- Taylor Mattia (New York University)<br>
-Long-Run Effects of School Segregation on Whites' Partisanship: Evidence for the Racial Threat Hypothesis
 
 - Isaac Mehlhaff (University of North Carolina at Chapel Hill)<br>
 Measuring Political Polarization in Mass Publics: The Cluster-Polarization Coefficient
@@ -327,13 +333,4 @@ Decoding Propaganda Slogans in China: Reading Between the Lines Using Word Embed
 
 - Junlong Zhou (New York University)<br>
 Estimating Heterogeneous Effect on Clustered Data using Mixed-Effects Model
-
-- Lucas de Abreu Maia (University of California, San Diego)<br>
-Disaffected Partisans: How Voters are Emphasizing Ideological Labels and De-Emphasizing Party Identification
-
-- Patrick Chester (New York University)<br>
-Framing Democracy: Identifying Autocratic Anti-Democratic Propaganda Using Word Embeddings
-
-- Isabel Laterzo (UNC Chapel Hill)<br>
-Estimating the Dark Figure of Crime using Bayesian Additive Regression Trees plus Poststratification (BARP)
 
