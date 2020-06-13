@@ -9,7 +9,7 @@ excerpt: <br/>
 
 <h2>Register</h2>
 
-Presenters, co-authors and other members of the Society for Political Methodology wishing to attend live presentations during the meeting are invited to register by June 12.
+Presenters, co-authors and other members of the Society for Political Methodology wishing to attend live presentations during the meeting are invited to register by June 21.
 
 Use this link to complete the registration process:
 
@@ -77,7 +77,7 @@ We also thank the University of Toronto Faculty of Law, the Hart House, the Vict
         <tr>
             <td style="width: 50%;"><b>Registration deadline</b></td>
             <td style="width: 15%;"></td>
-            <td style="width: 25%;">June 12, 2020</td>
+            <td style="width: 25%;">June 21, 2020</td>
         </tr>    
 
         <tr>
