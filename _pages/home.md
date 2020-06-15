@@ -1,5 +1,5 @@
 ---
-title: "2020 Annual Conference of the Society for Political Methodology"
+title: "2020 Annual Meeting of the Society for Political Methodology"
 layout: splash
 permalink: /
 header:
