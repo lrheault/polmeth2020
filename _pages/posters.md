@@ -135,9 +135,6 @@ Certain. Wrong. Misinformed? Evaluating Survey-Based Measures of Political Mispe
 Co-author(s): Simon Roth (University of Konstanz)<br>
 Floor Speeches and Ideological Position: Estimating Ideology of Representatives
 
-- Daniel Gustafson (University of North Carolina at Chapel Hill)<br>
-Exploring the Economic and Political Determinants of Domestic Unrest
-
 - Andrew Halterman (Massachusetts Institute of Technology)<br>
 Extracting Political Events from Text Using Grammatical Dependency Parsing and Machine Learning
 

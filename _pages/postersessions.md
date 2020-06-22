@@ -119,9 +119,6 @@ Measuring Regulatory Barriers Using Annual Reports of Firms
 - Matthew Tyler (Stanford University) <br>
 Rigorous Subjectivity: Demystifying and Improving Human Coding with Statistical Models
 
-- Daniel Gustafson (University of North Carolina at Chapel Hill) <br>
-Exploring the Economic and Political Determinants of Domestic Unrest
-
 - Andrew Halterman (Massachusetts Institute of Technology) <br>
 Extracting Political Events from Text Using Grammatical Dependency Parsing and Machine Learning
 
