@@ -13,11 +13,11 @@ main:
   - title: "Instructions"
     url: /instructions/
 
-  - title: "Virtual Poster Sessions"
-    url: /postersessions/
-
   - title: "Posters"
     url: /posters/
+
+  - title: "Virtual Sessions"
+    url: /postersessions/
 
   - title: "Diversity"
     url: /diversity/
