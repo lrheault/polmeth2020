@@ -10,7 +10,7 @@ toc_label: "Schedule"
 
 On July 14 and July 15, meeting rooms will be set up for graduate students approaching the job market to present their work in small group poster sessions.
 
-This format is experimental and was developed as a response to the contraints posed by the COVID-19 pandemic.  We are only able to offer it to a subset of poster presenters: PhD students close to graduate (or who recently graduated).  You can find the <a href="https://polmeth2020.org/posters/" target="_blank">full list of poster presenters here</a>.
+This format is experimental and was developed as a response to the contraints posed by the COVID-19 pandemic.  We are only able to offer it to a subset of poster presenters: PhD students close to graduation (or who recently graduated).  You can find the <a href="https://polmeth2020.org/posters/" target="_blank">full list of poster presenters here</a>.
 
 Each virtual session will feature four posters.  The goal is to reproduce the experience of an in-person poster session, which is more informal than a panel presentation. Each presenter will be invited to summarize their study, followed by a Q&A with the other participants.
 
