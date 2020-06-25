@@ -300,6 +300,7 @@ Join our special guests for a timely and stimulating talk on non-academic career
 
 <table style="width: 95%; font-size:90%">
     <tbody>
+    <tr><td width="100%"><b>Pierre Kremp</b> (Google)</td></tr>
     <tr><td width="100%"><b>Drew Linzer</b> (Civiqs)</td></tr>
     <tr><td width="100%"><b>Gabriella Sacramone-Lutz</b> (Facebook)</td></tr>
     <tr><td width="100%"><b>Susanna Supalla</b> (Alloy)</td></tr>
