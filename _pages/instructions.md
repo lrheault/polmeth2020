@@ -11,8 +11,6 @@ toc_label: "Contents"
 
 This page summarizes the format of the online conference.
 
-Importantly, we ask all participants to ensure that communications from the email address [polmeth@utoronto.ca](mailto:polmeth@utoronto.ca) are not redirected to a spam folder.  We will be in touch with participants in the weeks before the conference to provide important information on logistics.
-
 ## Paper Presenters and Discussants
 
 The format for the virtual panels will resemble that of the International Methods Colloquium.  We expect to use Zoom Webinars.  Paper presenters, their co-authors (if they choose to) and discussants will be invited to join as **panelists**.  Other registered participants will be invited to join as **attendees**.  Attendees will be able to watch the broadcast of each panel live, interact in the chat, and ask questions with audio during the audience question period.
