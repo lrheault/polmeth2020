@@ -9,7 +9,7 @@ excerpt: <br/>
 
 <h2>PolMeth XXXVII: A Virtual Conference (July 1 Update)</h2>
 
-We are currently finalizing the new conference website and preparing to launch.  Stay tuned for details!  We will be in touch with participants on July 6 with instructions to upload their papers and/or posters.  Poster presenters will be invited to share their poster by July 13, in time for the launch of the conference.
+We are currently finalizing the new conference website and preparing to launch.  Stay tuned for details!  We will be in touch with poster presenters on July 6 with instructions about posters.  Poster presenters will be invited to share their poster by July 13, in time for the launch of the conference.
 
 PolMeth XXXVII takes place between July 14 and July 17, 2020.  The live talks are scheduled between noon and 5.30PM EST (or 9AM and 2.30PM, PST).
 
