@@ -244,19 +244,7 @@ Live poster sessions with graduate students approaching the job market.
 ### Panel V 
 12PM to 1:30PM Eastern Time (9AM to 10:30AM Pacific Time)
 
-<p style="color:#00204e; display:inline"><b>Virtual Room 1: Event Data</b></p>
-
-<table style="width: 95%; font-size:90%">
-	<tbody>
-	<tr><td width="50%"><b>Adeline Lo</b> (Princeton University)</td>
-	<td width="50%"><b> Adapting unstructured news data for conflict forecasting </b></td></tr>
-	<tr><td width="50%"><b>Eric Dunford</b> (Georgetown University)<br>Co-authors: Karsten Donnay</td>
-	<td width="50%"><b> The Illusion of Precision </b></td></tr>
-	</tbody>
-</table>
-
-
-<p style="color:#00204e; display:inline"><b>Virtual Room 2: Covariate Balancing</b></p>
+<p style="color:#00204e; display:inline"><b>Virtual Room 1: Covariate Balancing</b></p>
 
 <table style="width: 95%; font-size:90%">
 	<tbody>
@@ -268,7 +256,7 @@ Live poster sessions with graduate students approaching the job market.
 </table>
 
 
-<p style="color:#00204e; display:inline"><b>Virtual Room 3: Conjoint Designs (Extended Panel to 2:15pm ET)</b></p>
+<p style="color:#00204e; display:inline"><b>Virtual Room 2: Conjoint Designs (Extended Panel to 2:15pm ET)</b></p>
 
 <table style="width: 95%; font-size:90%">
 	<tbody>
@@ -282,7 +270,7 @@ Live poster sessions with graduate students approaching the job market.
 </table>
 
 
-<p style="color:#00204e; display:inline"><b>Virtual Room 4: Text-as-Data</b></p>
+<p style="color:#00204e; display:inline"><b>Virtual Room 3: Text-as-Data</b></p>
 
 <table style="width: 95%; font-size:90%">
 	<tbody>
