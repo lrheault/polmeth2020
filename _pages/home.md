@@ -7,9 +7,15 @@ header:
 excerpt: <br/>
 ---
 
+<h2>New Conference Website Live</h2>
+
+Check out our new conference website, now live!  We're still fixing a few things, but most of the elements are in place.
+
+<a href="https://polmeth.theopenscholar.com/polmeth2020" target="_blank" class="btn btn-lg btn--primary">PolMeth XXXVII Conference Website</a>
+
 <h2>PolMeth XXXVII: A Virtual Conference (July 1 Update)</h2>
 
-We are currently finalizing the new conference website and preparing to launch.  Stay tuned for details!  We will be in touch with poster presenters on July 6 with instructions about posters.  Poster presenters will be invited to share their poster by July 13, in time for the launch of the conference.
+We are currently finalizing the new conference website and preparing to launch.  Stay tuned for details!  We will be in touch with poster presenters on July 6 with instructions.  Poster presenters will be invited to share their poster by July 13, in time for the launch of the conference.
 
 PolMeth XXXVII takes place between July 14 and July 17, 2020.  The live talks are scheduled between noon and 5.30PM EST (or 9AM and 2.30PM, PST).
 
