@@ -1,0 +1,297 @@
+docs:
+- author: Ali Ahmed
+  institution: New York University
+  title: "When Inequality Matters: The Role of Wealth during England's Democratic Transition"
+- author: Alessio Albarello
+  institution: University of Rochester
+  title: "Who Gets Their Way in Coalition Policy?"
+- author: Sabrina Arias
+  institution: University of Pennsylvania
+  coauthors: Robert Shaffer
+  title: "Legislative Networks and Agenda-Setting in the UNGA and UNSC"
+- author: Yuki Atsusaka
+  institution: Rice University
+  coauthors: Randy Stevenson, Ahra Wu
+  title: "Bias-Corrected Crosswise Estimators for Sensitive Inquiries"
+- author: Samuel Baltz
+  institution: University of Michigan
+  title: "Estimating historical election results under counterfactual electoral systems"
+- author: Kathryn Baragwanath
+  institution: UCSD
+  coauthors: Ella Bayi
+  title: "Collective Property Rights Reduce Deforestation in the Brazilian Amazon"
+- author: Soubhik Barari
+  institution: Harvard
+  title: "Scaling the YouTube Media Environment using Network and Text Data"
+- author: Kyle Bedu
+  institution: Pennsylvania State University
+  title: "Model-Assisted Restricted Randomization for Network Experiments in Political Science"
+- author: Paige Bollen
+  institution: MIT
+  coauthors: Blair Read
+  title: "Don’t Know, Don’t Care: Non-Attitudes in African Public Opinion"
+- author: Julia Bourkland
+  institution: Indiana University
+  coauthors: Dr. Vanessa Cruz Nichols (mentor)
+  title: "Analyzing Gendered & Raced Editorial Scrutiny of Lawmakers in the U.S. and U.K."
+- author: Jeremy Bowles
+  institution: Harvard University
+  title: "When Electoral Access Does Not Promote Participation"
+- author: Adam Breuer
+  institution: Harvard University
+  coauthors: R. Eilat (Facebook Research), U. Weinsberg (Facebook Research)
+  title: "Friend or Faux: Social Network-Based Early Detection of Fake User Accounts on Facebook"
+- author: Jacob Brown
+  institution: Harvard University
+  coauthors: Matthew Blackwell, Sophie Hill, Kosuke Imai, Teppei Yamamoto
+  title: "Priming bias versus post-treatment bias in experimental designs"
+- author: Ryden Butler
+  institution: Arts and Sciences at Washington University in St. Louis
+  title: "Learning from Likes: The Effect of Social Engagement Feedback on Politicians' Social Media Communications"
+- author: Ka Ming Chan
+  institution: Ludwig Maximilian University of Munich
+  title: "Would voters become more rightward leaning after they decide to support radical right party? Evidence from Germany"
+- author: Angela Chesler
+  institution: University of Notre Dame
+  title: "Quantifying Triggers with Event Coincidence Analysis: An Application to Mass Civilian Killings in Civil War, 1989-2017"
+- author: Dahyun Choi
+  institution: Princeton University
+  title: "Cheap Talk or Circuit to the Legislature: Why do Corporations Express Public Support for and Opposition against Free Trade?"
+- author: Elisha Cohen
+  institution: Emory University
+  title: "Sensitivity Analysis for Outcome Tests to Evaluate Bias"
+- author: Gustavo Diaz
+  institution: University of Illinois at Urbana–Champaign
+  title: "A Variable Selection Approach to Spillovers in Observational Studies"
+- author: Gemma Dipoppa
+  institution: University of pennsylvania
+  title: "How Criminal Organizations Expand to Strong States: Migrants' Exploitation and Vote Buying in Northern Italy"
+- author: Shusei Eshima
+  institution: Harvard University
+  coauthors: Kosuke Imai, Tomoya Sasaki
+  title: "Keyword Assisted Topic Models"
+- author: Laura Felone
+  institution: University of Wisconsin System
+  coauthors: Khasan Redjabov, Eli August
+  title: "Conjoint Analysis in Studying Descriptive Representation"
+- author: Haosen Ge
+  institution: Princeton University
+  title: "Measuring Regulatory Barriers Using Annual Reports of Firms"
+- author: Ishita Gopal
+  institution: Pennsylvania State University
+  title: "Targeting and the Timing of Online Censorship: The Case of Venezuela"
+- author: Matthew Graham
+  institution: Yale University
+  title: "Certain. Wrong. Misinformed? Evaluating Survey-Based Measures of Political Misperceptions"
+- author: Benjamin Guinaudeau
+  institution: University of Konstanz
+  coauthors: Simon Roth (University of Konstanz)
+  title: "Floor Speeches and Ideological Position: Estimating Ideology of Representatives"
+- author: Daniel Gustafson
+  institution: University of North Carolina at Chapel Hill
+  title: "Exploring the Economic and Political Determinants of Domestic Unrest"
+- author: Andrew Halterman
+  institution: Massachusetts Institute of Technology
+  title: "Extracting Political Events from Text Using Grammatical Dependency Parsing and Machine Learning"
+- author: Simon Hoellerbauer
+  institution: University of North Carolina - Chapel Hill
+  title: "Distances in Latent Space: A Novel Approach to Analyzing Conjoints"
+- author: Melody Huang
+  institution: UCLA
+  coauthors: Erin Hartman, Naoki Egami, Luke Miratrix
+  title: "Leveraging observational outcomes to improve the generalization of experimental results"
+- author: JunHyeok Jang
+  institution: University of California, Merced
+  title: "Violation of Bright Lines, Term Limit Evasion and Information Control"
+- author: Connor Jerzak
+  institution: Harvard University
+  title: "A General Method for Detecting & Characterizing Interference in Field Experiments"
+- author: Andrea Junqueira
+  institution: Texas A&M University
+  coauthors: Ali Kagalwala, Andrew Philips, Guy Whitten
+  title: "New Frontiers in Dynamic Pie Modeling"
+- author: Ali Kagalwala
+  institution: Texas A&M University
+  coauthors: Andrea Junqueira, Guy D. Whitten, Laron K. Williams, Cameron Wimpy
+  title: "Modeling Time and Space Together"
+- author: Sydney Kahmann
+  institution: University of California, Los Angeles
+  coauthors: Erin Hartman, P. Jeffrey Brantingham, Jorja Leap
+  title: "LAPD Community Safety Partnership: Impact Evaluation on Violent Crime Using Augmented Synthetic Control Models"
+- author: Gento Kato
+  institution: University of California, Davis
+  coauthors: Tzu-Ping Liu, Samuel Fuller
+  title: "Non-Parametric Bridging of Non-Parametric Ideological Scales: Application to Mapping Voters on Politicians’ Ideological Space"
+- author: ByungKoo Kim
+  institution: University of Michigan
+  coauthors: Yuki Shiraito, Saki Kuzushima
+  title: "Paragraph-citation Topic Models for Corpora with Citation Networks"
+- author: Seo-young Silvia Kim
+  institution: California Institute of Technology
+  title: "Donation Dynamics: Do Critical Campaign Events Influence Contributions?"
+- author: Taegyoon Kim
+  institution: Pennsylvania State University
+  title: "The Spread of Promotion of Political Violence on Twitter"
+- author: Nadiya Kostyuk
+  institution: University of Michigan, Ann Arbor
+  title: "Diffusion of Cybersecurity Policies"
+- author: Shiro Kuriwaki
+  institution: Harvard University
+  title: "Clustering large-scale ballot data with varying choice sets"
+- author: Saki Kuzushima
+  institution: University of Michigan
+  coauthors: ByungKoo Kim
+  title: "Paragraph-citation Topic Models for Corpora with Citation Networks"
+- author: Natalia Lamberova
+  institution: University of California, Los Angeles
+  title: "The Puzzling Politics of R&D: Signaling Competence through Risky Projects"
+- author: Caroline Lancaster
+  institution: UNC Chapel Hill
+  title: "Value Shift: Immigration Attitudes and the Sociocultural Divide"
+- author: Thomas Leavitt
+  institution: Columbia University
+  title: "Drawing Causal Inferences from Difference-in-Differences Designs under Uncertainty in Parallel Trends"
+- author: Naijia Liu
+  institution: Princeton University
+  title: "Latent factor approach to missing not at random"
+- author: Shiyao Liu
+  institution: Massachusetts Institute of Technology
+  title: "Beyond Topics: Semi-Supervised Learning for Texts from a Measurement Perspective"
+- author: Tzu-Ping Liu
+  institution: University of California Davis
+  coauthors: Takanori Fujiwara
+  title: "Contrastive Multiple Component Analysis (cMCA): Applying the Contrastive Learning Method to Identify Political Subgroups"
+- author: Gabriel Madson
+  institution: Duke University
+  title: "The Heuristic Issue Voter: Issue Preferences and Candidate Choice"
+- author: Taylor Mattia
+  institution: New York University
+  title: "Long-Run Effects of School Segregation on Whites' Partisanship: Evidence for the Racial Threat Hypothesis"
+- author: Isaac Mehlhaff
+  institution: University of North Carolina at Chapel Hill
+  title: "Measuring Political Polarization in Mass Publics: The Cluster-Polarization Coefficient"
+- author: Kazuma Mizukoshi
+  institution: University College London
+  title: "A new multilevel-based indicator for party system nationalization"
+- author: Marco Morucci
+  institution: Duke University
+  title: "An interpretable variational autoencoder for the analysis of political images"
+- author: Zoe Nemerever
+  institution: University of California San Diego
+  title: "Urban-Rural Divide in State Political Parties"
+- author: Nicola Nones
+  institution: University of Virginia
+  title: "The Moral Narrative of the European Sovereign Bond Crisis"
+- author: Sean Norton
+  institution: UNC-Chapel HIll
+  title: "Who Do You Think You’re Fooling? Examining the Internal Russian Disinformation Campaign"
+- author: Casey Petroff
+  institution: Harvard University
+  title: "The Politics of Science: Evidence from 19th-Century Public Health"
+- author: Rachel Porter
+  institution: University of North Carolina
+  coauthors: Sarah Treul, Maura McDonald
+  title: "Changing the Dialogue: Candidate Position-Taking in Primary Elections"
+- author: Blake Reynolds
+  institution: University of Wisconsin-Madison
+  coauthors: Marcy Shieh
+  title: "Voter Turnout and Campaign Mail Features"
+- author: Oliver Rittmann
+  institution: University of Mannheim
+  coauthors: Tobias Ringwald, Dominic Nyhuis
+  title: "When do Legislators Deliver Dramatic Legislative Speeches?"
+- author: Fernando Rocha Rosario
+  institution: Universidad Nacional Autónoma de M´éxico
+  title: "Formalization of Political Analysis: Matrix of Possibles States and Strategie"
+- author: Evan Rosenman
+  institution: Stanford University
+  coauthors: Nitin Viswanathan 
+  title: "Using Poisson Binomial Models to Reveal Voter Preferences"
+- author: Erin Rossiter
+  institution: Washington University in St. Louis
+  title: "The Consequences of Social Interaction on Outparty Affect and Stereotypes"
+- author: Luke Sanford
+  institution: University of California, San Diego
+  title: "Remote Sensing: Measurement and Causal Inference"
+- author: Tomoya Sasaki
+  institution: Massachusetts Institute of Technology
+  coauthors: Shusei Eshima, Kosuke Imai
+  title: "Keyword Assisted Topic Models"
+- author: Christopher Schwarz
+  institution: New York University
+  title: "Agnostic Sensitivity Analysis"
+- author: Marcy Shieh
+  institution: University of Wisconsin–Madison
+  coauthors: Blake Reynolds
+  title: "Voter Turnout and Campaign Mail Features"
+- author: Sooahn Shin
+  institution: Harvard University
+  title: "Measuring Issue-Specific Preferences from Votes"
+- author: Christine Slaughter
+  institution: UCLA
+  title: "Connecting Adverse Experiences to Resilience"
+- author: Flavio Souza
+  institution: Texas A&M University
+  title: "Multiplicative Interactions in Error Correction Models"
+- author: Maya Srikanth
+  institution: California Institute of Technology
+  coauthors: Anqi Liu, Nicholas Adams-Cohen, Anima Anandkumar, R. Michael Alvarez
+  title: "Finding Social Media Trolls: Dynamic Keyword Selection Methods for Rapidly Evolving Online Debates"
+- author: Roya Talibova
+  institution: University of Michigan
+  title: "The Imperial Army and the Russian Civil War: The Path From Oppression to Insurrection"
+- author: Kimberly Turner
+  institution: Southern Illinois University Carbondale
+  title: "A Win or A Flop? Identifying and Estimating Unintended Protest Costs in Measuring Success Outcomes"
+- author: Matthew Tyler
+  institution: Stanford University
+  title: "Rigorous Subjectivity: Demystifying and Improving Human Coding with Statistical Models"
+- author: Fabricio Vasselai
+  institution: University of Michigan
+  title: "Supervised Learning election forensics with Multi-Agent simulated training data"
+- author: Emily Wager
+  institution: University of North Carolina at Chapel Hill
+  coauthors: Rebecca Kreitzer
+  title: "Who Deserves an Abortion? A Conjoint Experiment"
+- author: Ye Wang
+  institution: New York University
+  title: "Causal Inference under Temporal and Spatial Interference"
+- author: Patrick Wu
+  institution: University of Michigan
+  coauthors: Walter R. Mebane, Jr.
+  title: "Joint Image-Text Classification Using A Transformer-Based Architecture"
+- author: Nuannuan Xiang
+  institution: The University of Michigan
+  coauthors: Nuannuan Xiang; Kevin Quinn
+  title: "Gaussian Process Models for Causal Inference with Time-Series Cross-Sectional Data"
+- author: Omer Faruk Yalcin
+  institution: Pennsylvania State University
+  title: "Measuring Political Elite Networks with WikiData"
+- author: Soichiro Yamauchi
+  institution: Harvard University
+  title: "Estimating Population Quantities from Multiple Data Sources using the Structural Tensor Factorization"
+- author: Seo Eun Yang
+  institution: Ohio State University
+  title: "How a deep neural network contributes to learning causal graph and forecasting political dynamics"
+- author: Luwei Ying
+  institution: Washington University in St. Louis
+  title: "When Ideology Gives in to Strategy: A Text-As-Data Approach to Recover Jihadist Groups’ Rhetorical Tactics in Media Releases"
+- author: Sidak Yntiso
+  institution: New York University
+  coauthors: Sanford Gordon
+  title: "Attributable Risk of Race: Detecting Partisan and Racial Gerrymandering"
+- author: Yin Yuan
+  institution: University of California, San Diego
+  title: "Decoding Propaganda Slogans in China: Reading Between the Lines Using Word Embeddings"
+- author: Junlong Zhou
+  institution: New York University
+  title: "Estimating Heterogeneous Effect on Clustered Data using Mixed-Effects Model"
+- author: Lucas de Abreu Maia
+  institution: University of California, San Diego
+  title: "Disaffected Partisans: How Voters are Emphasizing Ideological Labels and De-Emphasizing Party Identification"
+- author: Patrick Chester
+  institution: New York University
+  title: "Framing Democracy: Identifying Autocratic Anti-Democratic Propaganda Using Word Embeddings"
+- author: Isabel Laterzo
+  institution: UNC Chapel Hill
+  title: "Estimating the Dark Figure of Crime using Bayesian Additive Regression Trees plus Poststratification (BARP)"

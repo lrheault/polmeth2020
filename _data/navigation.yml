@@ -4,20 +4,12 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Register"
-    url: /register/
-
   - title: "Program"
     url: /program/
 
-# - title: "Posters"
-#   url: /posters/
+  - title: "Virtual Poster Sessions"
+    url: /postersessions/
 
-  - title: "Instructions"
-    url: /instructions/
+  - title: "Posters"
+    url: /posters/
 
-#  - title: "Travel"
-#    url: /travel/
-
-  - title: "Diversity"
-    url: /diversity/

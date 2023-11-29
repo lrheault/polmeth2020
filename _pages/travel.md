@@ -11,7 +11,9 @@ toc_icon: "cog"
 
 Travel information will be provided here, nearer the period of registration.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d11545.168943821136!2d-79.3956564!3d43.6628917!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sca!4v1576535610390!5m2!1sen!2sca" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+<iframe src="https://drive.google.com/file/d/1XyGne-n8F6wBkAB7_yg5-8IWrUxujgj4/view?usp=sharing" width="100%" height="1080px">
+This browser does not support PDFs. Please download the PDF to view it: 
+<a href="https://drive.google.com/file/d/1XyGne-n8F6wBkAB7_yg5-8IWrUxujgj4/view?usp=sharing">Download PDF</a></iframe>
 
 <!--
 ## Directions

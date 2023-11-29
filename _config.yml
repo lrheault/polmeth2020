@@ -5,7 +5,7 @@ locale                   : "en-US"
 title                    : "PolMeth XXXVII"
 title_separator          : "-"
 name                     : "PolMeth XXXVII"
-description              : "Official website for the 2020 Annual Conference of the Society for Political Methodology"
+description              : "Legacy website for the 2020 Annual Conference of the Society for Political Methodology"
 url                      : "https://polmeth2020.org" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lrheault/polmeth2020" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,6 +78,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _data
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
